@@ -15,3 +15,4 @@ The site includes an English / standard Mandarin toggle and all photos are store
 - English / 普通话 language toggle
 - Eight big recipe categories with detailed steps
 - GitHub Pages ready
+
